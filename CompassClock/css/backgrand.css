@@ -1,0 +1,12 @@
+body{
+    font-size: 14px;
+    color: #FFFF00;
+    font-family: 'KaiTi', 'Times New Roman', Times, serif;
+    background: url("../image/image.jpg") no-repeat;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover; 
+}

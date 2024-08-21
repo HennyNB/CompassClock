@@ -1,0 +1,10 @@
+#shade {
+    position: absolute;
+    list-style-type: none;
+    background: rgba( 255, 255, 255, 0.2);
+    margin: -3px 0px 0px 0px;
+    width: 463px;
+    height: 28px;
+    left: 337px;
+    transition: width 0.3s ease-in-out 0s;
+}
